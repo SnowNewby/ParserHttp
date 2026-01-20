@@ -12,8 +12,6 @@
 
 Видео и аудио: MP3, MP4, AVI, MKV
 
-Программный код: Java, C++, Python, JavaScript
-
 Базы данных: SQL, DB, MDB
 
 И многое другое.
